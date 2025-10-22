@@ -82,21 +82,21 @@ export const testimonials: Testimonial[] = [
       "DeepSecure360 transformed our security posture. Their AI-driven threat detection identified vulnerabilities we didn't even know existed.",
     name: "Muhammad Sani",
     designation: "CTO, TechSecure Inc.",
-    src: "/img_test.png", // Placeholder for image source
+    src: "/img_test.png",
   },
   {
     quote:
       "The satellite-aided surveillance feature has been invaluable for our national infrastructure protection program. Highly recommended!",
     name: "Sarah Ahmed",
     designation: "Security Director, GovSec",
-    src: "/female.png", // Placeholder for image source
+    src: "/female.png",
   },
   {
     quote:
       "Their deepfake detection technology saved us from a potentially disastrous social engineering attack. The system works flawlessly.",
     name: "Michael Ameh",
     designation: "CEO, Global Finance Group",
-    src: "/male.png", // Placeholder for image source
+    src: "/male.png",
   },
 ];
 

@@ -13,33 +13,6 @@ import {
 } from "./navbar";
 import { navLinks } from "../lib/utils/data";
 
-// const navLinks = [
-//   {
-//     name: "About",
-//     link: "#about",
-//   },
-//   {
-//     name: "Features",
-//     link: "#features",
-//   },
-//   {
-//     name: "Contact",
-//     link: "#contact",
-//   },
-//   {
-//     name: "Founder",
-//     link: "#founder",
-//   },
-//   {
-//     name: "Scanner",
-//     link: "#scanner",
-//   },
-//   {
-//     name: "Testimonials",
-//     link: "#testimonials",
-//   },
-// ];
-
 export default function ResponsiveNavbar() {
   const [isOpen, setIsOpen] = useState(false);
 

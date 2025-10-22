@@ -4,7 +4,7 @@ import {
   IconLock,
   IconClock,
   IconSatellite,
-  IconShieldLock, // For Phishing, combines security with a lock
+  IconShieldLock,
   IconSearch,
   IconDashboard,
   IconCircleCheck,

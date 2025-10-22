@@ -1,12 +1,11 @@
-import Image from "next/image";
 import { HeroParallax } from "./ui/home/home";
 import { products } from "./lib/utils/data";
-import { TestimonialsPage } from "./testimonials/page";
+import TestimonialsPage from "./testimonials/page";
 import { HoverBorderGradient } from "./ui/hover-button";
-import { FeaturesPage } from "./features/page";
-import { AboutPage } from "./about/page";
-import { FounderPage } from "./founder/page";
-import { ContactUs } from "./contact/page";
+import FeaturesPage from "./features/page";
+import AboutPage from "./about/page";
+import FounderPage from "./founder/page";
+import ContactUs from "./contact/page";
 
 export default function Home() {
   return (

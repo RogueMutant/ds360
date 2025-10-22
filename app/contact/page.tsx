@@ -1,6 +1,6 @@
 import ContactSection from "../ui/contact/contact";
 
-export function ContactUs() {
+export default function ContactUs() {
   return (
     <>
       <ContactSection />

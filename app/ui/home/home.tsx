@@ -8,8 +8,6 @@ import {
   MotionValue,
 } from "motion/react";
 import Image from "next/image";
-import { TypewriterEffect } from "../typewriter-effect";
-import { typeWriterWords } from "ui/app/lib/utils/data";
 
 export const HeroParallax = ({
   products,
